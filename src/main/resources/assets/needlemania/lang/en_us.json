@@ -1,0 +1,7 @@
+{
+  "item.needlemania.needle": "Needle",
+  "item.needlemania.splinter": "Splinter",
+  "death.attack.needle": "%1$s was poked to death by a %2$s",
+  "death.attack.needle.intentional": "%1$s was poked to death by %2$s using %3$s",
+  "itemGroup.needlemania.needles": "Needlemania"
+}

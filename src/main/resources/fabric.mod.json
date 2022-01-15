@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "needlemania",
+  "version": "${version}",
+  "name": "NeedleMania",
+  "description": "",
+  "authors": [
+    "chyzman"
+  ],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/needlemania/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.chyzman.needlemania.NeedleMania"
+    ]
+  },
+  "mixins": [
+    "needlemania.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*",
+    "minecraft": "1.18.1"
+  }
+}
